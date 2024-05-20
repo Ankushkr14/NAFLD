@@ -1,9 +1,6 @@
                          
 <br/>
 <div align="center">
-<a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://source.unsplash.com/random/256x256" alt="Logo" width="80" height="80">
-</a>
 <h3 align="center">NAFLD-Project</h3>
 <p align="center">
 
@@ -19,17 +16,10 @@
 
 ![Product Screenshot](https://source.unsplash.com/random/1920x1080)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This study explored the use of machine learning models to predict mortality risk among patients diagnosed with nonalcoholic fatty liver disease (NAFLD) using retrospective data spanning from 1997 to 2014. The dataset included data from 17,549 adult participants diagnosed with NAFLD and included various demographic, anthropometric, and biochemical parameters for analysis. 
+	Out of six machine learning algorithms that we studied, AdaBoost has emerged as the most promising model, achieving near-perfect accuracy (99%) and high precision, recall, and F1 scores. 
+![image](https://github.com/Ankushkr14/NAFLD/assets/91725844/1fe66716-f631-40c5-ada6-aaa1d47720dc)
 
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
  ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
